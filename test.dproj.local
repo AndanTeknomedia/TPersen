@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/12/10 22:59:10.000.977,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/12/12 02:52:38.000.645,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/01/16 13:48:00.000.636,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/09 23:22:51.000.858,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/09 23:28:12.000.342,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/03/09 23:28:40.000.180,C:\Components\XE8\TPersen\PersenDanNilai.pas=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/03/09 23:28:44.000.301,C:\Components\XE8\TPersen\uMain.pas=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/09 23:28:44.000.301,C:\Components\XE8\TPersen\uMain.dfm=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/03/09 23:28:46.000.415,C:\Components\XE8\TPersen\test.dproj=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

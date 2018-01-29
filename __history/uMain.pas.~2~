@@ -1,0 +1,51 @@
+unit uMain;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,PersenDanNilai;
+
+type
+  TForm2 = class(TForm)
+    Panel1: TPanel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Label1: TLabel;
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+    procedure FormDestroy(Sender: TObject);
+  private
+    { Private declarations }
+    PDN: TPersenDanNilai;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+  PDN := TPersenDanNilai.Create(self);
+  with pdn do
+  begin
+    // NilaiDasar := 10000;
+    Left := 10;
+    top := 10;
+    Parent := self;
+    Visible := true;
+  end;
+end;
+
+procedure TForm2.FormDestroy(Sender: TObject);
+begin
+  PDN.Free;
+end;
+
+end.

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/10 14:35:31.000.143,=rtl.dcp</Transaction>
+    <Transaction>2017/03/10 14:35:59.000.257,C:\Components\XE8\TPersen\PersenAndNilaiDXe8.dproj=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2017/03/10 14:37:52.000.259,=C:\Components\XE8\TPersen\PersenDanNilai.pas</Transaction>
+    <Transaction>2017/03/10 14:38:03.000.987,=vcl.dcp</Transaction>
+    <Transaction>2017/03/11 14:56:13.000.351,=C:\Components\XE8\TPersen\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
