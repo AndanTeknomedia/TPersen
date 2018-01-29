@@ -10,6 +10,7 @@ ke UI akan merepotkan, terutama jika perhitungan ini menggunakan beberapa step y
 ## Screenshots
 
 ![Tampilan Komponen - Enabled](Screenshots/atm.net-2018-01-29 23_25_45-Delphi XE8.png)
+
 ![Tampilan Komponen - Disabled](Screenshots/atm.net-2018-01-29 23_26_33-Delphi XE8.png)
 
 ## Properties
